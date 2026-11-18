@@ -1,7 +1,0 @@
-@import "tailwindcss";
-:focus-visible { outline: 3px solid #166534; outline-offset: 2px; }
-
-:focus-visible { outline: 3px solid #166534; outline-offset: 3px; }
-button:disabled { cursor: not-allowed; }
-select { max-width: 100%; }
-dialog { max-width: calc(100vw - 2rem); }
